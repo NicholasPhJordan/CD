@@ -1,4 +1,5 @@
 #include <iostream>;
+#include "Template.cpp";
 
 void sortArray(int *array, int length)
 {
@@ -14,12 +15,6 @@ void sortArray(int *array, int length)
 			}
 		}
 	}
-}
-
-template <typename T>
-class Dynami
-{
-	return lhs + rhs;
 }
 
 int main()
