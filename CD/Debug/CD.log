@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\AIE Projects\CD\CD\Main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CD.vcxproj -> D:\AIE Projects\CD\Debug\CD.exe
