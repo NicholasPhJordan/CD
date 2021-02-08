@@ -19,13 +19,5 @@ void sortArray(int *array, int length)
 
 int main()
 {
-	DynamicArray<int> test = DynamicArray<int>();
-	test.addItem(5);
-	test.addItem(4);
-	test.addItem(3);
-	test.addItem(2);
-	test.addItem(1);
-	test.sortItems();
-	test.print();
-	system("pause");
+	
 }
