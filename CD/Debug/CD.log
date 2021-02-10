@@ -3,8 +3,4 @@ D:\AIE Projects\CD\CD\Main.cpp(1,10): warning C4067: unexpected tokens following
 D:\AIE Projects\CD\CD\Main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 D:\AIE Projects\CD\CD\Template.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 D:\AIE Projects\CD\CD\Template.h(24,1): warning C4812: obsolete declaration style: please use 'DynamicArray<T>::DynamicArray' instead
-D:\AIE Projects\CD\CD\Template.h(24,1): warning C4812: obsolete declaration style: please use 'DynamicArray<int>::DynamicArray' instead
-D:\AIE Projects\CD\CD\Template.h(25): message : while compiling class template member function 'DynamicArray<int>::DynamicArray(void)'
-D:\AIE Projects\CD\CD\Main.cpp(22): message : see reference to function template instantiation 'DynamicArray<int>::DynamicArray(void)' being compiled
-D:\AIE Projects\CD\CD\Main.cpp(22): message : see reference to class template instantiation 'DynamicArray<int>' being compiled
   CD.vcxproj -> D:\AIE Projects\CD\Debug\CD.exe

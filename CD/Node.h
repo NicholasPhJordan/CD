@@ -7,7 +7,21 @@ class Node
 public:
 	Node();
 	Node(T value);
-	next() : Node<T>*;
-	previous() : Node<T>*;
-	data() : T;
+	Node<T>* next();
+	Node<T>* previous();
+	T data();
 };
+
+template<typename T>
+inline Node<T>::Node(T value)
+{
+	data() = value;
+	next();
+	previous();
+}
+
+template<typename T>
+inline Node<T>* Node<T>::next()
+{
+
+}
