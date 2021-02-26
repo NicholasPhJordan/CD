@@ -32,8 +32,16 @@ private:
 	int m_nodeCount;
 };
 
+//constructor 
 template<typename T>
 inline List<T>::List<T>()
+{
+
+}
+
+//deconstructor
+template<typename T>
+inline List<T>::~List()
 {
 
 }
